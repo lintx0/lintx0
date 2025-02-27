@@ -2,7 +2,6 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lintx0&hide=html"></td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=lintx0&show_icons=true"/> 
       <br/>
